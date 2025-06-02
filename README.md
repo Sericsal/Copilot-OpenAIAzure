@@ -1,3 +1,4 @@
+
 # LAB Copilot e OpenAI
 
 ## 📖 Descrição do Laboratório
